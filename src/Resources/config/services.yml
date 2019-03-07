@@ -1,1 +1,17 @@
 services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: false
+        bind:
+            $sessionName: '%tenolo_referer.session_name%'
+            $removeParams: '%tenolo_referer.remove_params%'
+
+    Tenolo\Bundle\RefererBundle\EventListener\:
+        resource: '../../EventListener/*'
+
+    Tenolo\Bundle\RefererBundle\Service\:
+        resource: '../../Service/*'
+
+    Tenolo\Bundle\RefererBundle\Twig\:
+        resource: '../../Twig/*'
