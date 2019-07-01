@@ -1,12 +1,14 @@
-tenolo - Referer Bundle
-=======================
+![tenolo](https://tenolo.de/themes/486/img/tenolo_werbeagentur_bochum.png)
 
-[![Latest Stable Version](https://poser.pugx.org/tenolo/referer-bundle/v/stable)](https://packagist.org/packages/tenolo/referer-bundle)
-[![Total Downloads](https://poser.pugx.org/tenolo/referer-bundle/downloads)](https://packagist.org/packages/tenolo/referer-bundle)
-[![Monthly Downloads](https://poser.pugx.org/tenolo/referer-bundle/d/monthly)](https://packagist.org/packages/tenolo/referer-bundle)
-[![Daily Downloads](https://poser.pugx.org/tenolo/referer-bundle/d/daily)](https://packagist.org/packages/tenolo/referer-bundle)
-[![Latest Unstable Version](https://poser.pugx.org/tenolo/referer-bundle/v/unstable)](https://packagist.org/packages/tenolo/referer-bundle)
-[![License](https://poser.pugx.org/tenolo/referer-bundle/license)](https://packagist.org/packages/tenolo/referer-bundle)
+[![PHP Version](https://img.shields.io/packagist/php-v/tenolo/referer-bundle.svg)](https://packagist.org/packages/tenolo/referer-bundle)
+[![Latest Stable Version](https://img.shields.io/packagist/v/tenolo/referer-bundle.svg?label=stable)](https://packagist.org/packages/tenolo/referer-bundle)
+[![Latest Unstable Version](https://img.shields.io/packagist/vpre/tenolo/referer-bundle.svg?label=unstable)](https://packagist.org/packages/tenolo/referer-bundle)
+[![Total Downloads](https://img.shields.io/packagist/dt/tenolo/referer-bundle.svg)](https://packagist.org/packages/tenolo/referer-bundle)
+[![Total Downloads](https://img.shields.io/packagist/dm/tenolo/referer-bundle.svg)](https://packagist.org/packages/tenolo/referer-bundle)
+[![License](https://img.shields.io/packagist/l/tenolo/referer-bundle.svg)](https://packagist.org/packages/tenolo/referer-bundle)
+
+Referer Bundle
+=======================
 
 This bundle helps you to set, store and get custom referer in your twig templates.
 
